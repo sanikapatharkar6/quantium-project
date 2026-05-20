@@ -1,0 +1,4 @@
+product,quantity,price,date,region
+pink morsel,10,$2.50,2025-01-01,north
+blue morsel,5,$3.00,2025-01-01,south
+pink morsel,8,$4.00,2025-01-02,east
